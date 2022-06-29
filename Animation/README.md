@@ -4,7 +4,7 @@
 
 
 <figure class="image">
-  <img src="../images/build-order-and-options.png" alt="具体动画效果可参考对应文件中的构件顺序与选项">
+  <img src="../images/build-order-and-options.png" alt="" width="200">
   <figcaption>具体动画效果可参考对应文件中的构件顺序与选项</figcaption>
 </figure>
 
