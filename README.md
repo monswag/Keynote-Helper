@@ -8,6 +8,11 @@
 
 ## 使用方法
 * 直接插入至你的文稿
+
+
+https://user-images.githubusercontent.com/972668/206859960-ff60a9b8-c1c9-47d5-b1b0-d4959c1b50ee.mp4
+
+
 * 复制素材粘贴至你的文稿
 ## 开始使用
 * 添加项目到本地 (推荐)
